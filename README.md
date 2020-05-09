@@ -3,6 +3,7 @@
 This is the frontend for the EVENTNOW web app that is a clean and highly efficient event booker service created with React and other backend technologies. EVENTNOW is a creative and well optimzed application that is able to create, delete both events and bookers all with user authorization. 
 
 Click here to see the web app: https://event-booker-react-app.herokuapp.com/auth
+
 Click here to see the backend: https://github.com/Mustaballer/EVENTNOW-Backend
 
 ## Built With
